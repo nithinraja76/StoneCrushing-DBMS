@@ -1,0 +1,18 @@
+To find Inventory where type is 'Owned'
+db.Inventory.find({ "Type": "Owned" })
+
+
+To find Warehouse which has 'sand' in WarehouseId
+db.Warehouse.find({Warehouse_productID: {$regex: "sand", $options: "i"}})
+
+
+To find Machinery bought on or after Feb 2024
+db.Warehouse.find({Warehouse_productID: {$regex: "sand", $options: "i"}})
+
+
+To find count of each type part in spares collection
+db.Spares.aggregate([{$group: {"_id": "$Type", count: {$sum: 1}}}])
+
+
+To find sum of all outstanding amount from customers
+db.Customer.aggregate([{ $group: { "_id": "null", "TotalDue": { $sum: "$TotalDue" }}}])
