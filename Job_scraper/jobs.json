@@ -1,0 +1,22 @@
+[
+    {
+        "job_title": "Data Engineer",
+        "location": {
+            "city": "newtown",
+            "state": "TX"
+        },
+        "work_type": "Hybrid",
+        "employment_type": "Full-time",
+        "salary_hourly": "$29.23/hour"
+    },
+    {
+        "job_title": "Data Engineer",
+        "location": {
+            "city": "newtown",
+            "state": "TX"
+        },
+        "work_type": "Hybrid",
+        "employment_type": "Full-time",
+        "salary_hourly": "$29.23/hour"
+    }
+]

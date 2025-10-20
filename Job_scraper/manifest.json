@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Job Scraper",
+  "version": "1.0",
+  "description": "Scrape job postings from current page",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
