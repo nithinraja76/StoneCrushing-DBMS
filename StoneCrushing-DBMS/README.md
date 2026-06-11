@@ -2,6 +2,7 @@
 
 ## Overview
 The mining and stone crushing industry involves complex operations with multiple interconnected resources. These include machinery, transportation vehicles, inventory, and both skilled and unskilled employees. Traditional bookkeeping methods are inefficient, prone to error, and labor-intensive, making it essential to adopt a centralized Database Management System (DBMS). This project demonstrates how implementing a DBMS can reduce production costs, improve efficiency, and create a streamlined workflow, enabling businesses to thrive in competitive environments.
+<img width="3560" height="2600" alt="image" src="https://github.com/user-attachments/assets/8fb32e8a-419c-4d6f-9868-8fcf50cbc27c" />
 
 ---
 
